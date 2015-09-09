@@ -1,2 +1,4 @@
 # responsive-email
-How to design a responsive HTML email 
+相应式邮件相关
+- 1.gmail不支持media query。
+
